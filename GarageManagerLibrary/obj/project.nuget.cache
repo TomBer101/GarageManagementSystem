@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kl/gqXiRPlXMwUYlFLCGfR+nePc0uhJLhOBm31eNpYDLgHP58R5z3rX5NPGBnpJtUKzKjG3JVyk3WjwD0FO4SA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tomer\\Documents\\GarageManagementSystem\\GarageManagerLibrary\\GarageManagerLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tomer\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\tomer\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+﻿namespace GarageManagerLibrary
+{
+    public enum eFuelType
+    {
+        Soler = 1,
+        Octan95,
+        Octan96,
+        Octan98
+    }
+}
